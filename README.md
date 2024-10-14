@@ -1,6 +1,5 @@
-DEPLOYED ON VERCEL => https://next-js-website-armans-projects-c9523aa4.vercel.app/
 
-# 🚀 Next.js Metaverse Frame Animation
+# 🚀 Next.js  Frame Animation
 
 Explore the immersive world of the Metaverse through this Next.js website, showcasing advanced animation skills in React. Designed as a template for VR technology enthusiasts, this project offers a glimpse into the possibilities of virtual reality.
 
@@ -29,12 +28,7 @@ Explore the immersive world of the Metaverse through this Next.js website, showc
 
 Feel free to explore the codebase, experiment with the animation features, and adapt the template to your own Metaverse projects. Contributions and feedback are encouraged!
 
-## 📷 Screenshots
-
----
-
-![screenshot-Metaverse_1](https://github.com/SarkissArmaniUS/next.js-Metaverse_Frame_Animation_Deployed/assets/97789627/d4ec85c7-99af-4678-93c1-712d1a4fa03c)
-
+## 📷 Screenshot
 ---
 
 ![screenshot-Metaverse_2](https://github.com/SarkissArmaniUS/next.js-Metaverse_Frame_Animation_Deployed/assets/97789627/8f361453-abb0-4abf-aca5-57d6cc834556)
